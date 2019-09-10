@@ -27,8 +27,12 @@ body{
     float: none;
     margin-top: 100px;
 }
+
+p{
+    color:white !important;
+}
 .section2{
-    background: whitesmoke;
+    background: #4c4a4a;
     height: 300px;
 }
 .second-text{
